@@ -107,7 +107,7 @@
         "text_zm7yXn": {
           "type": "text",
           "settings": {
-            "title": "Contact Information DOIFO",
+            "title": "Contact Information Hilless",
             "content": "<p>At Hilless, we strive to provide the best experience possible. If you have any questions or concerns, feel free to reach out and <a href=\"https://hilless.com/pages/contact\" title=\"https://hilless.com/pages/contact\">contact us</a></p><p><strong>E-mail Address:</strong> <a href=\"mailto:info@hilless.com\">info@hilless.com</a></p><p><strong>Phone number:</strong> <a href=\"tel:+61860173059\">+61860173059</a><br/><br/><strong>Store name:</strong> Doifo<br/><br/><strong>Warehouse address:</strong><br/><a href=\"https://share.google/DLQrEzDWofOPuq9um\">11 Royal St Alexandra Hills, Queensland</a><br/><br/><strong>Business name:</strong> Nassim Suvour<br/>Kvk nr: 91371406<br/><br/><strong>Business Address:</strong><br/><a href=\"https://share.google/Pk5pLPUknhnum7NQF\">Van Koetsveld-Akker 14, 2994 AJ Barendrecht, Netherlands</a><br/><br/><strong>Customer service available hours</strong><br/><br/>Operating Hours (Monday to Friday):<br/>09:00 – 17:00 (AEST)<br/><br/>Operating Hours (Weekends):<br/>11:00 – 16:00 (AEST)<br/><br/>We aim to respond to your inquiries within 24 hours.</p>",
             "enable_follow_on_shop": true
           }
@@ -121,7 +121,7 @@
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
-        "show_powered_by_shopify": true,
+        "show_powered_by_shopify": false,
         "show_policy_links": false,
         "show_country_selector": true,
         "show_country_flag": true,

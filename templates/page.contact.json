@@ -1,1 +1,44 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact":{"type":"contact","settings":{}}},"order":["main","contact"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any questions?",
+        "content": "<p>If you have any questions, need assistance, or would like to share your feedback, we're here to help. Whether it's about a product, an order, or general information, our team is ready to support you.</p><p>You can reach us through any of the contact options listed below. Our customer service team is available during working hours and aims to provide clear and accurate answers to all your enquiries. Whether your question is about delivery, product details, returns, or anything else, we encourage you to get in touch.</p><p>We appreciate your interest and the trust you place in us. Our priority is to assist you with care and professionalism, providing support every step of the way.</p><p>Feel free to contact us — we look forward to hearing from you and helping you soon.<br/><br/><strong>Contact Details:</strong></p><p><strong>Email: </strong><a href=\"mailto:info@hilless.com\">info@hilless.com</a><br/><strong>Phone:</strong> <a href=\"tel:+61860173059\">+61860173059</a><br/><strong>Address:</strong> <a href=\"https://share.google/DLQrEzDWofOPuq9um\">11 Royal St Alexandra Hills, Queensland</a></p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact"
+  ]
+}
